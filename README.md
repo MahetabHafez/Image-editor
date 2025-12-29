@@ -15,7 +15,7 @@ A powerful, client-side image editing tool built using the HTML5 Canvas API. Thi
 * **CSS3**: Modern UI with a focus on usability and a sleek dark theme.
 
 ## 🌐 Live Demo
-Edit your photos here: [**Live Demo Link**]((https://mahetabhafez.github.io/Image-editor/))
+Edit your photos here: [**Live Demo Link**](https://mahetabhafez.github.io/Image-editor/)
 
 ---
 Developed by **Mahetab Mohamed** - Electronics and Communication Engineer.
